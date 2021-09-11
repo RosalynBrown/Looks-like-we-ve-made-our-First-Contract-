@@ -2,4 +2,6 @@
 
 1. Starting with the smart contract code for AssociteProfitSplitter.sol then deploy the contract by selecting the Compile AssociateProfitSplitter.sol button on the left. 
 The purpose of this contract is it allows you to make multiple deposits in a single transaction.
-![image](https://user-images.githubusercontent.com/82069175/132959173-f79c5f87-65b4-457d-83e9-01b415d5ff4b.png)
+![image](https://user-images.githubusercontent.com/82069175/132959191-2b3db269-3c16-41c1-b0c8-ddc76d7f7507.png)
+
+
